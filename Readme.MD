@@ -1,5 +1,3 @@
-Aqui está uma proposta de `README.md` com um tom mais didático e direto, focando em ser um guia de consulta ("cola") para os conceitos aplicados no projeto.
-
 ---
 
 # 🧠 Guia Rápido: Consumindo APIs com C# e LINQ
