@@ -1,0 +1,14 @@
+C:\Users\Yago Nascimento\Desktop\Faculdade\Alura-Linq\bin\Debug\net10.0\Alura-Linq.exe
+C:\Users\Yago Nascimento\Desktop\Faculdade\Alura-Linq\bin\Debug\net10.0\Alura-Linq.deps.json
+C:\Users\Yago Nascimento\Desktop\Faculdade\Alura-Linq\bin\Debug\net10.0\Alura-Linq.runtimeconfig.json
+C:\Users\Yago Nascimento\Desktop\Faculdade\Alura-Linq\bin\Debug\net10.0\Alura-Linq.dll
+C:\Users\Yago Nascimento\Desktop\Faculdade\Alura-Linq\bin\Debug\net10.0\Alura-Linq.pdb
+C:\Users\Yago Nascimento\Desktop\Faculdade\Alura-Linq\obj\Debug\net10.0\Alura-Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yago Nascimento\Desktop\Faculdade\Alura-Linq\obj\Debug\net10.0\Alura-Linq.AssemblyInfoInputs.cache
+C:\Users\Yago Nascimento\Desktop\Faculdade\Alura-Linq\obj\Debug\net10.0\Alura-Linq.AssemblyInfo.cs
+C:\Users\Yago Nascimento\Desktop\Faculdade\Alura-Linq\obj\Debug\net10.0\Alura-Linq.csproj.CoreCompileInputs.cache
+C:\Users\Yago Nascimento\Desktop\Faculdade\Alura-Linq\obj\Debug\net10.0\Alura-Linq.dll
+C:\Users\Yago Nascimento\Desktop\Faculdade\Alura-Linq\obj\Debug\net10.0\refint\Alura-Linq.dll
+C:\Users\Yago Nascimento\Desktop\Faculdade\Alura-Linq\obj\Debug\net10.0\Alura-Linq.pdb
+C:\Users\Yago Nascimento\Desktop\Faculdade\Alura-Linq\obj\Debug\net10.0\Alura-Linq.genruntimeconfig.cache
+C:\Users\Yago Nascimento\Desktop\Faculdade\Alura-Linq\obj\Debug\net10.0\ref\Alura-Linq.dll
